@@ -1,5 +1,6 @@
 import RPi.GPIO as gpio
 import time
+#this is a comment
 
 gpio.setmode(gpio.BOARD)
 gpio.setup(40, gpio.OUT)
